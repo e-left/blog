@@ -1,7 +1,7 @@
-query/node-modules
-posts/node-modules
-comments/node-modules
-event-bus/node-modules
-moderation/node-modules
+query/node_modules
+posts/node_modules
+comments/node_modules
+event-bus/node_modules
+moderation/node_modules
 client/node_modules
 
