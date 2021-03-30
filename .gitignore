@@ -1,1 +1,7 @@
-*/node-modules
+query/node-modules
+posts/node-modules
+comments/node-modules
+event-bus/node-modules
+moderation/node-modules
+client/node_modules
+
