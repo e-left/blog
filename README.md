@@ -1,0 +1,1 @@
+This is simply a repository for me to track my progress on the current project. It is a simple blog project, deployed with kubernetes microservices. Currently, some events are broken, but I am unable to fix them because of limitations on my local machine.
